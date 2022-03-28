@@ -3,10 +3,6 @@
 
 <CardContent :content="cardText" :img="cardImage" />
 
-
-
-
-
     </div>
 </template>
 
